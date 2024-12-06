@@ -12,4 +12,4 @@ I am a first year PhD student in the [University of Manchester](https://www.manc
 ## Education
 * PhD Financial Mathematics, [University of Manchester](https://www.manchester.ac.uk/), 2024 Sep - Now
 * MSc Mathematical Finance, [University of Manchester](https://www.manchester.ac.uk/), 2022 Sep - 2023 Sep
-* BSc(Hons) Financial Mathematics, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh/), 2018 Sep - 2022 Jun
+* BSc(Hons) Financial Mathematics, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), 2018 Sep - 2022 Jun
