@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuze Li's Personal Page"
 title_separator          : "-"
-name                     : &name "Yuze Li (李煜泽)"
+name                     : &name "Yuze Li"
 description              : &description "personal description"
 url                      : https://yuze0402.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yuze0402/yuze0402.github.io"
 author:
   # Biographic information
   avatar           : "Brian_Griffin.png"
-  name             : "Yuze Li"
+  name             : "Yuze Li (李煜泽)"
   #pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "United Kingdom"
