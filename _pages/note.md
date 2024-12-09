@@ -13,7 +13,7 @@ This note is mainly realted to the measure change in stochastic process and its 
 * [Change Measure and Risk Neutral (Note)](https://yuze0402.github.io/files/Change_Measure_and_Risk_Neutral_v2.pdf)
 
 ## Local Time
-This note focuses on the concept of local time and its application on It\^o's formula, which is widely used in solving the optimal stopping problem.
+This note focuses on the concept of local time and its application on It\^{o}'s formula, which is widely used in solving the optimal stopping problem.
 * [Local Time (Note)](https://yuze0402.github.io/files/Local_Time_Note.pdf)
 
 ## Optimal Stopping Problems
