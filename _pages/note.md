@@ -20,7 +20,7 @@ This note focuses on the concept of local time and its application on Itô's for
 
 ## Optimal Stopping Problems
 This note documents some facts and solutions to the optimal stopping problem in discrete and continuous time framework. Also, we introduced two methods to solve the optimal stopping probelms in this note. The first one is utilizing the infinitesimal generator to construct the differential equation systems, and the second one is the 'guess and verification'.
-*[Optimal Stopping Problems (Note)](https://yuze0402.github.io/files/OSFB.pdf)
+* [Optimal Stopping Problems (Note)](https://yuze0402.github.io/files/OSFB.pdf)
 
 
 ## Scale Function and Speed Measure
