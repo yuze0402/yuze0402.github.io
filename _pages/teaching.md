@@ -7,6 +7,6 @@ redirect_from:
   - /teaching.html
 ---
 
-# Graduate Teaching Assistant
+Graduate Teaching Assistant
 ## 2024-2025 Semester 2
-- MATH11712: Statistics I
+- MATH11712: Statistics I 
