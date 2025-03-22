@@ -28,5 +28,5 @@ This note concentrates on the scale function and speed measure, which helps us t
 * [Scale Function and Speed Measure (Note)](https://yuze0402.github.io/files/Scale_Function_and_Speed_Measure.pdf)
 
 ## Measure Theory and Ergodic Theory
-This note is based on the MSc Course [MATH61021](https://www.manchester.ac.uk/study/masters/courses/list/12519/msc-pure-mathematics/course-details/MATH61021#course-unit-details) taught by [Dr Donald Robertson](https://personalpages.manchester.ac.uk/staff/donald.robertson/default.htm). I study this course and take this note based on the Lecture material. It is a compreshensive couese about measure theory and ergodic theory.
+This note is based on the MSc Course [MATH61021](https://www.manchester.ac.uk/study/masters/courses/list/12519/msc-pure-mathematics/course-details/MATH61021#course-unit-details) taught by [Dr Donald Robertson](https://personalpages.manchester.ac.uk/staff/donald.robertson/default.htm). I study this course and take this note based on the Lecture material. It is a compreshensive course about measure theory and ergodic theory.
 * [Measure Theory and Ergodic Theory (Note)](https://yuze0402.github.io/files/MTET_Note.pdf)
