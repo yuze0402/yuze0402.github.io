@@ -1,0 +1,11 @@
+---
+permalink: /talk/
+title: "Talk"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /talk.html
+---
+
+Contributed Talks:
+- [Applied Mathematics Postgraduate Conference 2026](https://www.amp26.com/) at the University of Warwick (2026)
