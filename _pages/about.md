@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in the [University of Manchester](https://www.manchester.ac.uk/) jointly supervised by [Dr José Pedraza Ramirez](https://personalpages.manchester.ac.uk/staff/jose.pedrazaramirez/) and [Dr Kees van Schaik](https://personalpages.manchester.ac.uk/staff/kees.vanschaik/). My current research focus on the areas of financial mathematics including time inconsistency, optimal stopping problems, and Lévy process.
+I am a PhD student in the [University of Manchester](https://www.manchester.ac.uk/) jointly supervised by [Dr José Pedraza Ramirez](https://personalpages.manchester.ac.uk/staff/jose.pedrazaramirez/) and [Dr Kees van Schaik](https://personalpages.manchester.ac.uk/staff/kees.vanschaik/). My current research focuses on the areas of financial mathematics, including time inconsistency, optimal stopping problems, and Lévy processes.
 
 ## Education
-* PhD Financial Mathematics, [University of Manchester](https://www.manchester.ac.uk/), 2024 Sep - Now
-* MSc Mathematical Finance, [University of Manchester](https://www.manchester.ac.uk/), 2022 Sep - 2023 Sep
-* BSc(Hons) Financial Mathematics, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), 2018 Sep - 2022 Jun
+* PhD Financial Mathematics, [University of Manchester](https://www.manchester.ac.uk/), 2024 - Now
+* MSc Mathematical Finance, [University of Manchester](https://www.manchester.ac.uk/), 2022 - 2023
+* BSc(Hons) Financial Mathematics, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), 2018 - 2022
