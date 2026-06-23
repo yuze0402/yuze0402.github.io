@@ -6,7 +6,7 @@
 
 main:
   - title: "About"
-  url: 
+  url: // 
   
   - title: "Notes"
     url: /note/
