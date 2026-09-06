@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Graduate Teaching Assistant at The University of Manchester
+## 2026-2027 Semester 1
+- [MATH19611](https://www.manchester.ac.uk/study/undergraduate/courses/2026/03894/meng-electrical-and-electronic-engineering/): Mathematics for EEE 1E1
 ## 2025-2026 Semester 2
 - [MATH20962](https://www.manchester.ac.uk/study/undergraduate/courses/2026/07383/bsc-actuarial-science-and-mathematics/): Contingencies 1 - Actuarial Science
 - [MATH19832](https://www.manchester.ac.uk/study/undergraduate/courses/2026/12952/bsc-computer-science-with-an-integrated-foundation-year/): Mathematics 0C2
